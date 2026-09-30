@@ -1,2 +1,2 @@
-# learned-molecular-kernel
-C++20 implementation of a learned Gaussian kernel for molecular atomization-energy prediction, with fixed baselines and independent numerical validation.
+# disaster-response-logistics-simulator
+A Python simulator for disaster-response logistics that compares dispatch policies using paired Monte Carlo experiments, deterministic event simulation, and reproducible performance reports.
